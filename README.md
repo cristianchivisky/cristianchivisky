@@ -20,15 +20,6 @@ Tengo experiencia en:
 - **Bases de datos:** PostgreSQL, MongoDB, Redis.
 - **Herramientas de desarrollo:** Git, Docker, Figma.
 
-## 💼 Proyectos Destacados
-
-| Proyecto        | Descripción                                                                                     | Enlaces                                                                                     |
-|-----------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Científico-SPA  | Aplicación que muestra información sobre personajes de Rick and Morty. Construida con Webpack, JavaScript y Bootstrap. | [Repositorio](URL_del_repositorio) \| [Demo](https://gentle-kleicha-96d434.netlify.app/) |
-| Otro Proyecto   | Descripción breve del otro proyecto destacado.                                                    | [Repositorio](URL_del_repositorio) \| [Demo](URL_de_la_demo)                                  |
-
-
-
 ## 🌱 Actualmente estoy aprendiendo
 
 - Inteligencia Artificial.
