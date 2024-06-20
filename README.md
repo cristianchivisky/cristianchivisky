@@ -1,5 +1,5 @@
 # ¡Hola, soy Cristian Chivisky! 👋
-![Portada GitHub](./img/portada-github.png)
+![Portada GitHub](./img/portada.png)
 
 ## 🌟 Sobre mí
 
