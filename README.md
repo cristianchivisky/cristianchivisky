@@ -27,6 +27,6 @@ Tengo experiencia en:
 - Metodología de la investigación.
 - Inglés.
 
-¡Gracias por visitar mi perfil de GitHub! Puedes contactarme si tienes alguna pregunta o simplemente quieres conocer más sobre mí.
+¡Gracias por visitar mi perfil! Puedes contactarme si tienes alguna pregunta o simplemente quieres conocer más sobre mí.
 ¡Saludos!
 
