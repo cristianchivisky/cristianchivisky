@@ -3,7 +3,7 @@
 
 ## 🌟 Sobre mí
 
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de software de Concepción del Uruguay, Entre Ríos, con un gran interés en tecnología, programación y matemática. Soy Analista de Sistemas y actualmente estoy estudiando la Licenciatura en Sistemas de Información en la Facultad de Ciencia y Tecnología, UADER. Me encanta aprender nuevas tecnologías y contribuir a proyectos desafiantes.
+Soy un apasionado desarrollador de software de Concepción del Uruguay, Entre Ríos, con un gran interés en tecnología, programación y matemática. Soy Analista de Sistemas y actualmente estoy estudiando la Licenciatura en Sistemas de Información en la Facultad de Ciencia y Tecnología, UADER. Me encanta aprender nuevas tecnologías y contribuir a proyectos desafiantes.
 
 ## 📫 Cómo contactarme
 
@@ -22,17 +22,11 @@ Tengo experiencia en:
 
 ## 💼 Proyectos Destacados
 
-### [Nombre del Proyecto 1]
-Descripción breve del proyecto. Puedes incluir tecnologías usadas y el propósito del proyecto.
+| Proyecto        | Descripción                                                                                     | Enlaces                                                                                     |
+|-----------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Científico-SPA  | Aplicación que muestra información sobre personajes de Rick and Morty. Construida con Webpack, JavaScript y Bootstrap. | [Repositorio](URL_del_repositorio) \| [Demo](https://gentle-kleicha-96d434.netlify.app/) |
+| Otro Proyecto   | Descripción breve del otro proyecto destacado.                                                    | [Repositorio](URL_del_repositorio) \| [Demo](URL_de_la_demo)                                  |
 
-- [Enlace al repositorio](URL del repositorio)
-- [Enlace a la demo](URL de la demo, si aplica)
-
-### [Nombre del Proyecto 2]
-Descripción breve del proyecto. Puedes incluir tecnologías usadas y el propósito del proyecto.
-
-- [Enlace al repositorio](URL del repositorio)
-- [Enlace a la demo](URL de la demo, si aplica)
 
 
 ## 🌱 Actualmente estoy aprendiendo
