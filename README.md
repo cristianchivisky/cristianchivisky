@@ -3,7 +3,7 @@
 
 ## 🌟 Sobre mí
 
-Soy un apasionado desarrollador de software, con un gran interés en la tecnología, la programación y la matemática. Actualmente soy Analista de Sistemas y estoy estudiando la Licenciatura en Sistemas de Información en la Facultad de Ciencia y Tecnología, UADER. Me encanta aprender nuevas tecnologías y contribuir a proyectos desafiantes.
+Soy un apasionado desarrollador full stack, con un gran interés en la tecnología, la programación y la matemática. Actualmente soy Analista de Sistemas y estoy cursando la Licenciatura en Sistemas de Información en la Facultad de Ciencia y Tecnología, UADER. Me encanta aprender nuevas tecnologías y contribuir a proyectos desafiantes.
 
 ## 🔗 Redes Sociales
 
