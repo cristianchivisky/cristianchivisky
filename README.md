@@ -10,7 +10,7 @@ Soy un apasionado desarrollador de software, con un gran interés en la tecnolog
 <a href="https://www.linkedin.com/in/cristian-chivisky-3186aa242" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="mailto:cristianchivisky@gmail.com">
+<a href="mailto:cristian.chivisky@gmail.com">
   <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" width="40" height="40"/>
 </a>
 
