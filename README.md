@@ -13,6 +13,14 @@ Soy un apasionado desarrollador de software, con un gran interés en la tecnolog
 
 ## 🚀 Habilidades
 
+### Características blandas:
+
+- **Trabajo en equipo:** Tengo la capacidad de colaborar de manera efectiva con otros para alcanzar objetivos comunes.
+- **Comunicación efectiva:** Me expreso con claridad y precisión, para transmitir ideas y resolver problemas.
+- **Proactividad:** Tengo iniciativa para identificar y resolver problemas, siempre intentando avanzar y mejorar.
+- **Perseverancia:** Soy persistente y constante en mis esfuerzos.
+- **Confiabilidad:** Soy una persona confiable y estable, que cumple con sus compromisos.
+
 ### Lenguajes de programación:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
