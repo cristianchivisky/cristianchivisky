@@ -9,7 +9,7 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 
 - **Correo electrónico:** [cristian.chivisky@gmail.com](mailto:cristian.chivisky@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/cristian-chivisky-3186aa242](https://www.linkedin.com/in/cristian-chivisky-3186aa242)
-- **Portafolio:** Pronto estará disponible.
+- **Portafolio:** [https://cristian-chivisky.vercel.app/](https://cristian-chivisky.vercel.app/)
 
 ## 🚀 Habilidades
 
