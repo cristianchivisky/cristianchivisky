@@ -64,7 +64,7 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 
 | | Rick and Morty SPA | Aerolab | Información de Criptomonedas |
 |---|-------------------|---------|-----------------------------|
-| **Imagen** | <img src="./img/rick&morty.png" alt="Rick and Morty Character Info" width="200" /> | <img src="./img/aerolab.png" alt="Aerolab" width="200" /> | <img src="./img/cripto-spa.png" alt="Cripto SPA" width="200" /> |
+| **Imagen** | <img src="./img/rick&morty.png" alt="Rick and Morty Character Info" width="250" /> | <img src="./img/aerolab.png" alt="Aerolab" width="250" /> | <img src="./img/cripto-spa.png" alt="Cripto SPA" width="250" /> |
 | **Descripción** | Aplicación web que muestra información sobre personajes de la serie Rick and Morty. Permite buscar, filtrar personajes y mostrar detalles del personaje seleccionado. **Tecnologías:** JavaScript, Bootstrap, Webpack | Plataforma que utiliza la API de Aerolab para visualización de productos. También ofrece filtrado por categoría y detalles de cada producto. **Tecnologías:** Vite, React, Material UI | SPA que muestra información sobre criptomonedas utilizando la API de Coinlore. Ofrece listado, búsqueda por nombre y detalles de cada una. **Tecnologías:** Webpack, Coinlore API |
 | **Enlaces** | [Repositorio](https://github.com/cristianchivisky/Cientifico-SPA.git) \| [Demo](https://66afddb23cf2b4f33bb520db--resonant-centaur-46cbaf.netlify.app/) | [Repositorio](https://github.com/cristianchivisky/Aerolab-Challenge-PA.git) \| [Demo](https://animated-kringle-c4c6b2.netlify.app/) | [Repositorio](https://github.com/cristianchivisky/SPA-Coinlore.git) \| [Demo](https://66b03fad0175d3542c536643--curious-zuccutto-070623.netlify.app/) |
 
