@@ -1,4 +1,4 @@
-# ¡Hola, soy Cristian Chivisky! 👋
+# ¡Hola, Me llamo Cristian Chivisky! 👋
 ![Portada GitHub](./img/portada.png)
 
 
@@ -7,14 +7,14 @@
 Soy un apasionado desarrollador full stack, con un gran interés en la tecnología, la programación y la matemática. Actualmente soy Analista de Sistemas y estoy cursando la Licenciatura en Sistemas de Información en la Facultad de Ciencia y Tecnología, UADER. Me encanta aprender nuevas tecnologías y contribuir a proyectos desafiantes.
 
 
-## 🔗 Redes Sociales
+## 🔗 Mis Redes Sociales
 
 - **Correo electrónico:** [cristian.chivisky@gmail.com](mailto:cristian.chivisky@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/cristian-chivisky-3186aa242](https://www.linkedin.com/in/cristian-chivisky-3186aa242)
 - **Portafolio:** [https://cristian-chivisky.vercel.app/](https://cristian-chivisky.vercel.app/)
 
 
-## 🚀 Habilidades
+## 🚀 Principales Habilidades
 
 ### Características blandas:
 
@@ -60,12 +60,13 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
-## 📂 Proyectos Destacados
+## 📂 Algunos Proyectos
 
 | | Rick and Morty SPA | Aerolab | Información de Criptomonedas |
 |---|-------------------|---------|-----------------------------|
 | **Imagen** | <img src="./img/rick&morty.png" alt="Rick and Morty Character Info" width="250" /> | <img src="./img/aerolab.png" alt="Aerolab" width="250" /> | <img src="./img/cripto-spa.png" alt="Cripto SPA" width="250" /> |
-| **Descripción** | Aplicación web que muestra información sobre personajes de la serie Rick and Morty. Permite buscar, filtrar personajes y mostrar detalles del personaje seleccionado. **Tecnologías:** JavaScript, Bootstrap, Webpack | Plataforma que utiliza la API de Aerolab para visualización de productos. También ofrece filtrado por categoría y detalles de cada producto. **Tecnologías:** Vite, React, Material UI | SPA que muestra información sobre criptomonedas utilizando la API de Coinlore. Ofrece listado, búsqueda por nombre y detalles de cada una. **Tecnologías:** Webpack, Coinlore API |
+| **Descripción** | Aplicación web que muestra información sobre personajes de la serie Rick and Morty. Permite buscar, filtrar personajes y mostrar detalles del personaje seleccionado. | Plataforma que utiliza la API de Aerolab para visualización de productos. También ofrece filtrado por categoría y detalles de cada producto. | SPA que muestra información sobre criptomonedas utilizando la API de Coinlore. Ofrece listado, búsqueda por nombre y detalles de cada una. |
+| **Tecnologías:** | JavaScript, Bootstrap, Webpack | Vite, React, Material UI | Webpack, Coinlore API |
 | **Enlaces** | [Repositorio](https://github.com/cristianchivisky/Cientifico-SPA.git) \| [Demo](https://66afddb23cf2b4f33bb520db--resonant-centaur-46cbaf.netlify.app/) | [Repositorio](https://github.com/cristianchivisky/Aerolab-Challenge-PA.git) \| [Demo](https://animated-kringle-c4c6b2.netlify.app/) | [Repositorio](https://github.com/cristianchivisky/SPA-Coinlore.git) \| [Demo](https://66b03fad0175d3542c536643--curious-zuccutto-070623.netlify.app/) |
 
 
