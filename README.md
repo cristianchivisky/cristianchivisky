@@ -58,7 +58,7 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 
 ## 📂 Proyectos Destacados
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; gap: 10px; justify-content: center;">
 
   <div style="flex: 1; min-width: 300px; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="./img/rick&morty.png" alt="Rick and Morty Character Info" style="width: 100%; border-radius: 8px;">
