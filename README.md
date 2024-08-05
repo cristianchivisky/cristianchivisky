@@ -58,26 +58,26 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 
 ## 📂 Proyectos Destacados
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <div style="flex: 1; min-width: 300px;">
-    <img src="./img/rick&morty.png" alt="Rick and Morty Character Info" style="width: 100%;">
+  <div style="flex: 1; min-width: 300px; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="./img/rick&morty.png" alt="Rick and Morty Character Info" style="width: 100%; border-radius: 8px;">
     <h3>Rick and Morty SPA</h3>
     <p><strong>Descripción:</strong> Aplicación web que muestra información sobre personajes de la serie Rick and Morty. Permite buscar, filtrar personajes y mostrar detalles del personaje seleccionado.</p>
     <p><strong>Tecnologías:</strong> JavaScript, Bootstrap, Webpack</p>
     <p><strong>Despliegue:</strong> <a href="https://66afddb23cf2b4f33bb520db--resonant-centaur-46cbaf.netlify.app/">Netlify</a></p>
   </div>
   
-  <div style="flex: 1; min-width: 300px;">
-    <img src="./img/aerolab.png" alt="Aerolab" style="width: 100%;">
+  <div style="flex: 1; min-width: 300px; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="./img/aerolab.png" alt="Aerolab" style="width: 100%; border-radius: 8px;">
     <h3>Aerolab</h3>
     <p><strong>Descripción:</strong> Plataforma que utiliza la API de Aerolab para visualización de productos. También ofrece filtrado por categoría y detalles de cada producto.</p>
     <p><strong>Tecnologías:</strong> Vite, React, Material UI</p>
     <p><strong>Despliegue:</strong> <a href="https://github.com/cristianchivisky/Aerolab-Challenge-PA.git">Netlify</a></p>
   </div>
   
-  <div style="flex: 1; min-width: 300px;">
-    <img src="./img/cripto-spa.png" alt="Cripto SPA" style="width: 100%;">
+  <div style="flex: 1; min-width: 300px; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="./img/cripto-spa.png" alt="Cripto SPA" style="width: 100%; border-radius: 8px;">
     <h3>Información de Criptomonedas</h3>
     <p><strong>Descripción:</strong> SPA que muestra información sobre criptomonedas utilizando la API de Coinlore. Ofrece listado, búsqueda por nombre y detalles de cada una.</p>
     <p><strong>Tecnologías:</strong> Webpack, Coinlore API</p>
