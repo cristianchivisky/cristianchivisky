@@ -1,15 +1,18 @@
 # ¡Hola, soy Cristian Chivisky! 👋
 ![Portada GitHub](./img/portada.png)
 
+
 ## 🌟 Sobre mí
 
 Soy un apasionado desarrollador full stack, con un gran interés en la tecnología, la programación y la matemática. Actualmente soy Analista de Sistemas y estoy cursando la Licenciatura en Sistemas de Información en la Facultad de Ciencia y Tecnología, UADER. Me encanta aprender nuevas tecnologías y contribuir a proyectos desafiantes.
+
 
 ## 🔗 Redes Sociales
 
 - **Correo electrónico:** [cristian.chivisky@gmail.com](mailto:cristian.chivisky@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/cristian-chivisky-3186aa242](https://www.linkedin.com/in/cristian-chivisky-3186aa242)
 - **Portafolio:** [https://cristian-chivisky.vercel.app/](https://cristian-chivisky.vercel.app/)
+
 
 ## 🚀 Habilidades
 
@@ -56,35 +59,15 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+
 ## 📂 Proyectos Destacados
 
-<div style="display: flex; gap: 10px; justify-content: center;">
+| | Rick and Morty SPA | Aerolab | Información de Criptomonedas |
+|---|-------------------|---------|-----------------------------|
+| **Imagen** | <img src="./img/rick&morty.png" alt="Rick and Morty Character Info" width="150" /> | <img src="./img/aerolab.png" alt="Aerolab" width="150" /> | <img src="./img/cripto-spa.png" alt="Cripto SPA" width="150" /> |
+| **Descripción** | Aplicación web que muestra información sobre personajes de la serie Rick and Morty. Permite buscar, filtrar personajes y mostrar detalles del personaje seleccionado. **Tecnologías:** JavaScript, Bootstrap, Webpack | Plataforma que utiliza la API de Aerolab para visualización de productos. También ofrece filtrado por categoría y detalles de cada producto. **Tecnologías:** Vite, React, Material UI | SPA que muestra información sobre criptomonedas utilizando la API de Coinlore. Ofrece listado, búsqueda por nombre y detalles de cada una. **Tecnologías:** Webpack, Coinlore API |
+| **Enlaces** | [Repositorio](https://github.com/cristianchivisky/Rick-and-Morty-SPA) \| [Demo](https://66afddb23cf2b4f33bb520db--resonant-centaur-46cbaf.netlify.app/) | [Repositorio](https://github.com/cristianchivisky/Aerolab-Challenge-PA.git) \| [Demo](https://github.com/cristianchivisky/Aerolab-Challenge-PA.git) | [Repositorio](https://github.com/cristianchivisky/SPA-Coinlore.git) \| [Demo](https://github.com/cristianchivisky/SPA-Coinlore.git) |
 
-  <div style="flex: 1; min-width: 300px; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="./img/rick&morty.png" alt="Rick and Morty Character Info" style="width: 100%; border-radius: 8px;">
-    <h3>Rick and Morty SPA</h3>
-    <p><strong>Descripción:</strong> Aplicación web que muestra información sobre personajes de la serie Rick and Morty. Permite buscar, filtrar personajes y mostrar detalles del personaje seleccionado.</p>
-    <p><strong>Tecnologías:</strong> JavaScript, Bootstrap, Webpack</p>
-    <p><strong>Despliegue:</strong> <a href="https://66afddb23cf2b4f33bb520db--resonant-centaur-46cbaf.netlify.app/">Netlify</a></p>
-  </div>
-  
-  <div style="flex: 1; min-width: 300px; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="./img/aerolab.png" alt="Aerolab" style="width: 100%; border-radius: 8px;">
-    <h3>Aerolab</h3>
-    <p><strong>Descripción:</strong> Plataforma que utiliza la API de Aerolab para visualización de productos. También ofrece filtrado por categoría y detalles de cada producto.</p>
-    <p><strong>Tecnologías:</strong> Vite, React, Material UI</p>
-    <p><strong>Despliegue:</strong> <a href="https://github.com/cristianchivisky/Aerolab-Challenge-PA.git">Netlify</a></p>
-  </div>
-  
-  <div style="flex: 1; min-width: 300px; max-width: 400px; border: 1px solid #ccc; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="./img/cripto-spa.png" alt="Cripto SPA" style="width: 100%; border-radius: 8px;">
-    <h3>Información de Criptomonedas</h3>
-    <p><strong>Descripción:</strong> SPA que muestra información sobre criptomonedas utilizando la API de Coinlore. Ofrece listado, búsqueda por nombre y detalles de cada una.</p>
-    <p><strong>Tecnologías:</strong> Webpack, Coinlore API</p>
-    <p><strong>Despliegue:</strong> <a href="https://github.com/cristianchivisky/SPA-Coinlore.git">Netlify</a></p>
-  </div>
-
-</div>
 
 ## 🌱 Actualmente estoy aprendiendo
 
@@ -92,6 +75,7 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 - Bases de Datos Avanzadas: Incluyendo SQL avanzado, bases de datos temporales y bases de datos orientadas a objetos.
 - Metodología de la Investigación: Enfocado en un proyecto sobre cómo la IA puede mejorar la mala alimentación de las personas.
 - Inglés: Practicando mediante una aplicación.
+
 
 ## 📞 ¡Contactame!
 
