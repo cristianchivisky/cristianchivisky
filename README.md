@@ -4,8 +4,9 @@
 
 ## 🌟 Sobre mí
 
-Soy un apasionado desarrollador full stack, con un gran interés en la tecnología, la programación y la matemática. Actualmente soy Analista de Sistemas y estoy cursando la Licenciatura en Sistemas de Información en la Facultad de Ciencia y Tecnología, UADER. Me encanta aprender nuevas tecnologías y contribuir a proyectos desafiantes.
+Soy un apasionado desarrollador **Full Stack**, con un gran interés en la tecnología, la programación y la matemática. Actualmente soy **Analista de Sistemas** y estoy en 5to año de la **Licenciatura en Sistemas de Información**. Me encanta aprender nuevas tecnologías y contribuir a proyectos desafiantes.
 
+---
 
 ## 🔗 Mis Redes Sociales
 
@@ -13,13 +14,14 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 - **LinkedIn:** [www.linkedin.com/in/cristian-chivisky-3186aa242](https://www.linkedin.com/in/cristian-chivisky-3186aa242)
 - **Portafolio:** [https://cristian-chivisky.vercel.app/](https://cristian-chivisky.vercel.app/)
 
+---
 
 ## 🚀 Principales Habilidades
 
 ### Características blandas:
 
 - **Trabajo en equipo:** Tengo la capacidad de colaborar de manera efectiva con otros para alcanzar objetivos comunes.
-- **Comunicación efectiva:** Me expreso con claridad y precisión, para transmitir ideas y resolver problemas.
+- **Adaptabilidad**: Me ajusto rápidamente a nuevos entornos, herramientas y metodologías.  
 - **Proactividad:** Tengo iniciativa para identificar y resolver problemas, siempre intentando avanzar y mejorar.
 - **Perseverancia:** Soy persistente y constante en mis esfuerzos.
 - **Confiabilidad:** Soy una persona confiable y estable, que cumple con sus compromisos.
@@ -59,6 +61,7 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+---
 
 ## 📂 Algunos Proyectos
 
@@ -67,16 +70,18 @@ Soy un apasionado desarrollador full stack, con un gran interés en la tecnolog�
 | <img src="./img/rick&morty.png" alt="Rick and Morty Character Info" width="300" /> | <img src="./img/aerolab.png" alt="Aerolab" width="300" /> | <img src="./img/cripto-spa.png" alt="Cripto SPA" width="300" /> |
 | Aplicación web que muestra información sobre personajes de la serie Rick and Morty. Permite buscar, filtrar personajes y mostrar detalles del personaje seleccionado. | Plataforma que utiliza la API de Aerolab para visualización de productos. También ofrece filtrado por categoría y detalles de cada producto. | SPA que muestra información sobre criptomonedas utilizando la API de Coinlore. Ofrece listado, búsqueda por nombre y detalles de cada una. |
 | JavaScript, Bootstrap, Webpack | Vite, React, Material UI | Webpack, Coinlore API |
-| [Repositorio](https://github.com/cristianchivisky/Cientifico-SPA.git) \| [Demo](https://66afddb23cf2b4f33bb520db--resonant-centaur-46cbaf.netlify.app/) | [Repositorio](https://github.com/cristianchivisky/Aerolab-Challenge-PA.git) \| [Demo](https://animated-kringle-c4c6b2.netlify.app/) | [Repositorio](https://github.com/cristianchivisky/SPA-Coinlore.git) \| [Demo](https://66b03fad0175d3542c536643--curious-zuccutto-070623.netlify.app/) |
+| [**Repositorio**](https://github.com/cristianchivisky/Cientifico-SPA.git) \| [**Demo**](https://66afddb23cf2b4f33bb520db--resonant-centaur-46cbaf.netlify.app/) | [**Repositorio**](https://github.com/cristianchivisky/Aerolab-Challenge-PA.git) \| [**Demo**](https://animated-kringle-c4c6b2.netlify.app/) | [**Repositorio**](https://github.com/cristianchivisky/SPA-Coinlore.git) \| [**Demo**](https://66b03fad0175d3542c536643--curious-zuccutto-070623.netlify.app/) |
 
+---
 
 ## 🌱 Actualmente estoy aprendiendo
 
-- Inteligencia Artificial: A través de la facultad (4to año) y proyectos en Python y Prolog.
-- Bases de Datos Avanzadas: Incluyendo SQL avanzado, bases de datos temporales y bases de datos orientadas a objetos.
-- Metodología de la Investigación: Enfocado en un proyecto sobre cómo la IA puede mejorar la mala alimentación de las personas.
-- Inglés: Practicando mediante una aplicación.
+- **Inteligencia Artificial**: Hemos explorado temas como robótica, WEKA, y algoritmos como árboles de decisión, OneR, y otros modelos de clasificación.  
+- **Bases de Datos Avanzadas**: Aprendimos sobre *data warehouses*, procesos de ETL, y su integración con algoritmos de *machine learning*.  
+- **Metodología de la Investigación**: Proyecto sobre cómo la IA puede ayudar a mejorar la alimentación.  
+- **Inglés**: Mejorando mis habilidades mediante práctica diaria.
 
+---
 
 ## 📞 ¡Contactame!
 
