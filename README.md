@@ -67,8 +67,9 @@ Me apasiona crear soluciones reales, aprender nuevas tecnologías y trabajar en 
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristianchivisky&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianchivisky&layout=compact&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianchivisky&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cristianchivisky&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cristianchivisky&theme=tokyonight)
 
 ---
 
