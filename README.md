@@ -63,6 +63,11 @@ Me apasiona crear soluciones reales, aprender nuevas tecnologías y trabajar en 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+
+### 🏗️ Arquitecturas / Conceptos
+
+**REST APIs** - **Arquitectura MVC** - **SPA** - **Microservicios** - **Metodologías ágiles**
+
 ---
 
 ## 📊 Estadísticas
@@ -70,6 +75,26 @@ Me apasiona crear soluciones reales, aprender nuevas tecnologías y trabajar en 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianchivisky&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cristianchivisky&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cristianchivisky&theme=tokyonight)
+
+---
+
+## 📂 Algunos Proyectos Académicos
+
+| Rick and Morty SPA | Aerolab | Información de Criptomonedas |
+|-------------------|---------|-----------------------------|
+| <img src="./img/rick&morty.png" alt="Rick and Morty" width="300" /> | <img src="./img/aerolab.png" alt="Aerolab" width="300" /> | <img src="./img/cripto-spa.png" alt="Cripto SPA" width="300" /> |
+| Aplicación web que muestra información sobre personajes de la serie Rick and Morty. Permite buscar, filtrar personajes y mostrar detalles del personaje seleccionado. | Plataforma que utiliza la API de Aerolab para visualización de productos. También ofrece filtrado por categoría y detalles de cada producto. | SPA que muestra información sobre criptomonedas utilizando la API de Coinlore. Ofrece listado, búsqueda por nombre y detalles de cada una. |
+| JavaScript, Bootstrap, Webpack | Vite, React, Material UI | Webpack, Coinlore API |
+| [**Repositorio**](https://github.com/cristianchivisky/Cientifico-SPA.git) \| [**Demo**](https://66afddb23cf2b4f33bb520db--resonant-centaur-46cbaf.netlify.app/) | [**Repositorio**](https://github.com/cristianchivisky/Aerolab-Challenge-PA.git) \| [**Demo**](https://animated-kringle-c4c6b2.netlify.app/) | [**Repositorio**](https://github.com/cristianchivisky/SPA-Coinlore.git) \| [**Demo**](https://66b03fad0175d3542c536643--curious-zuccutto-070623.netlify.app/) |
+
+---
+
+## 🌱 Actualmente estoy aprendiendo
+
+- 🇺🇸 Inglés — Academia New Grow Up  
+- 🔐 Hacking Ético y Ciberseguridad — Cisco Networking Academy
+- ☕ Java POO + Spring Framework — Laboratorio de Investigación Gugler
+- 🤖 Desarrollo con Inteligencia Artificial — Formación en curso 
 
 ---
 
@@ -87,9 +112,17 @@ Me apasiona crear soluciones reales, aprender nuevas tecnologías y trabajar en 
 
 ---
 
+## 🎯 Objetivo Profesional
+
+Busco una oportunidad laboral como desarrollador Full Stack o AI Engineer, 
+donde pueda aportar valor en proyectos reales, continuar aprendiendo nuevas tecnologías 
+y crecer profesionalmente dentro de un equipo de desarrollo.
+
+---
+
 ## 📞 ¡Contactame!
 
-Estoy abierto a nuevas oportunidades laborales y colaboraciones.  
+Estoy abierto a nuevas oportunidades y colaboraciones.  
 Si querés hablar conmigo, podés encontrarme aquí:
  
 - 📧 [**cristian.chivisky@gmail.com**](mailto:cristian.chivisky@gmail.com)  
@@ -99,3 +132,4 @@ Si querés hablar conmigo, podés encontrarme aquí:
 ---
 
 ## 🙌 ¡Gracias por visitar mi perfil! ¡Saludos!
+
